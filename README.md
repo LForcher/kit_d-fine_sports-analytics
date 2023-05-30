@@ -1,6 +1,7 @@
 # sports analytics
 
-Project to develop advanced models based on DFL position and event data for tactical insights
+Code package used for the investigation in “Prediction of defensive success in elite soccer using machine learning - Tactical analysis of defensive play using tracking data and explainable AI”
+A project to develop advanced models based on DFL positional tracking data for tactical insights) Project to develop advanced models based on DFL position and event data for tactical insights
 
 # Configure project
 1. Create virtualenv venv from requirements.txt
