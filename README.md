@@ -1,7 +1,11 @@
 # KIT & d-fine Sports Analytics
-
 - Code package used for the investigation in “Prediction of defensive success in elite soccer using machine learning - Tactical analysis of defensive play using tracking data and explainable AI”
 - A project to develop advanced models based on DFL positional tracking data for tactical insights) Project to develop advanced models based on DFL position and event data for tactical insights
+
+# Data Availability Disclaimer
+- The used data is property of the German Football League (Deutsche Fußball Liga, DFL) and is not publicly available. The authors do not have permission to share the data publicly
+  # Reproduction of this work
+  - This work can be reproduced using similar data from professional soccer (e.g. tracking data of other soccer leagues or data providers)
 - To process the tracking data in this project, the floodlight package was used (a high-level data-driven sports analytics framework) (Raabe et al. 2022)
 - This python package can be used to process similar match data to make use of the developed code of this investigation
 
