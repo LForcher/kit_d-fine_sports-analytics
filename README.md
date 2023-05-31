@@ -2,6 +2,8 @@
 
 - Code package used for the investigation in “Prediction of defensive success in elite soccer using machine learning - Tactical analysis of defensive play using tracking data and explainable AI”
 - A project to develop advanced models based on DFL positional tracking data for tactical insights) Project to develop advanced models based on DFL position and event data for tactical insights
+- To process the tracking data in this project, the floodlight package was used (a high-level data-driven sports analytics framework) (Raabe et al. 2022)
+- This python package can be used to process similar match data to make use of the developed code of this investigation
 
 # Configure Project
 1. Create virtualenv venv from requirements.txt
