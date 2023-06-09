@@ -1,5 +1,5 @@
 
-# Tactical analysis of defensive play using tracking data and explainable AI
+# Tactical Analysis of Defensive Play using Tracking Data and Explainable AI
 - Code package used for the investigation in “Prediction of defensive success in elite soccer using machine learning - Tactical analysis of defensive play using tracking data and explainable AI”
 - A project to develop advanced models based on DFL positional tracking data for tactical insights
 - developed by KIT and d-fine
